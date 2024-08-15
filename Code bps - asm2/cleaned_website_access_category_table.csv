@@ -1,0 +1,11 @@
+AccessCategoryID,CategoryName,Description,CustomerID
+1,Homepage,Homepage description,127
+2,Product Page,Product Page description,113
+3,Checkout Page,Checkout Page description,31
+4,Support Page,Support Page description,69
+5,Blog Page,Blog Page description,77
+6,FAQ Page,FAQ Page description,141
+7,Contact Page,Contact Page description,88
+8,About Us Page,About Us Page description,109
+9,Careers Page,Careers Page description,76
+10,Privacy Policy Page,Privacy Policy Page description,90
